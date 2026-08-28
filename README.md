@@ -34,7 +34,7 @@ I build and support reliable enterprise technology environments and develop prac
 
 ### [AnchorCast Application ](https://github.com/anchorcastapp-team/anchorcastapp)
 
-AnchorCast is a free, open-source AI-powered church presentation and live sermon display desktop app for Windows. It uses Whisper AI to transcribe sermons in real time and automatically detect and display Bible verses on a projection screen as the pastor preaches
+[AnchorCast](https://www.anchorcastapp.com/) is a free, open-source AI-powered church presentation and live sermon display desktop app for Windows. It uses Whisper AI to transcribe sermons in real time and automatically detect and display Bible verses on a projection screen as the pastor preaches
 
 ### [ICRL RL Algorithm Comparison](https://github.com/gbkeku/icrl_rl_comparison)
 
