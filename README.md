@@ -10,7 +10,7 @@ I build and support reliable enterprise technology environments and develop prac
 ## About Me
 
 - 💼 More than **13 years of experience** across IT infrastructure, network administration, systems administration, technical support, and IT service operations.
-- 🖥️ Experienced in supporting **500+ endpoints across four locations** while maintaining **96% SLA performance**.
+- 🖥️ Experienced in supporting **700+ endpoints across four locations** while maintaining **96% SLA performance**.
 - 🌐 Hands-on background in Cisco networking, Windows Server, Active Directory, Linux, VMware, Hyper-V, VPN, firewalls, VoIP, endpoint support, and workplace technology.
 - 🎓 **M.Sc. in Network and Information Security — Distinction**, Kingston University London.
 - 🤖 Currently completing a **Certificate Program in AI Application Development** at UC Santa Cruz Silicon Valley Extension.
